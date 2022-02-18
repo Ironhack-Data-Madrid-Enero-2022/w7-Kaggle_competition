@@ -36,7 +36,9 @@ Find the Kaggle competition [here](https://www.kaggle.com/c/airbnb-ironhack/data
 
 ## Deadline
 
-Friday 25 February 2022
++ Thursday 24 February 2022 23:59
+
++ Project presentations will be held on Friday 25 February 2022.
 
 ## Tips
 - Take advantage of the daily submissions. Try at least one today!
